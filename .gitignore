@@ -1,0 +1,7 @@
+logs/
+
+.error_schema.log
+output/
+*~
+.#*
+\#*
